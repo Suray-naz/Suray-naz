@@ -13,5 +13,4 @@
 - 💻 I use daily: **.HTML**, **.js**, **.java**, **.css**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Tech I work on :
+
