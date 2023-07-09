@@ -1,5 +1,5 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Suray+Nazarova;Welcome+to+my+Github+profile;I'm+React+Developer...;)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Suray+Nazarova;Welcome+to+my+Github+profile;I'm+a+FrontEnd+Developer+Student...;)](https://git.io/typing-svg)
 <p align="center">
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yaser-demet-42731421b/](https://www.linkedin.com/in/suray-nazarova-a472a8280/)) 
