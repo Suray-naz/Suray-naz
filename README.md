@@ -5,6 +5,7 @@
 <p align="center">
   <a href="mailto:nazarova.suray1@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/suray-nazarova-a472a8280/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.xing.com/profile/Suray_Nazarova2/cv"><img src="https://img.icons8.com/color/96/000000/xing.png" alt="xing"/></a>
   <a href="https://www.youtube.com/channel/UCNiSmh9WJklt3HIvEQFE2fg"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.instagram.com/surai.n"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 </p>
